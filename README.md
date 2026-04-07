@@ -2,7 +2,7 @@
 Taller en clase implementando árboles con POO
 
 ## 1. Elaborar un árbol en Python
-[[arboles_POO.py]]
+[arboles_POO.py](https://github.com/mzc07/Taller-Arboles/blob/main/arboles_POO.py)
 
 ## 2. Ejemplo de implementación
 
