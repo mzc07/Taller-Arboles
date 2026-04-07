@@ -33,7 +33,9 @@ La codificación Huffman utiliza una longitud variable de bits para representar 
 Además, la codificación Huffman garantiza que ningún código sea el prefijo de otro código, lo que facilita la decodificación de los datos comprimidos.
 
 ***La compresión de datos*** consiste en reducir el tamaño de los datos originales, pero conservando la mayor parte de la información. Por ejemplo, los archivos de sonido o música suelen almacenarse en formato comprimido, aproximadamente un 10 % del tamaño original, pero manteniendo la mayor parte de la información.
+
 ***Sin pérdida*** significa que, incluso después de comprimir los datos, toda la información permanece intacta. Esto implica que, por ejemplo, un texto comprimido conserva las mismas letras y caracteres que el original.
+
 ***La compresión con pérdida*** es otra variante de compresión de datos, donde se pierde o se sacrifica parte de la información original para poder comprimir aún más los datos. La música, las imágenes y los vídeos se suelen almacenar y transmitir con compresión con pérdida, como en los formatos mp3, jpeg y mp4.
 
 ### Descifrando el código Huffman
