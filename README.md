@@ -29,6 +29,7 @@ path_list = ["a/b/d", "a/b/e/g", "a/b/e/h", "a/c/f"]
 tree = Tree.from_list(path_list)
 
 tree.plot("-ok")
+```
 ## 3. Algoritmo de codificación de Huffman
 La codificación Huffman es un algoritmo de compresión de datos sin pérdida.
 -La idea consiste en asignar códigos de longitud variable a los caracteres de entrada, cuya longitud depende de la frecuencia de cada carácter. El método voraz consiste en asignar el código de menor longitud al carácter más frecuente.
